@@ -1,0 +1,2 @@
+#showtooltip
+/castsequence reset=combat/10/target Mal des Jägers, Schlangenbiss, Arkaner Schuss
