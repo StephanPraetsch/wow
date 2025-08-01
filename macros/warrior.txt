@@ -1,0 +1,6 @@
+1HSword&Shiel
+/equip Daryls Kurzschwert
+/equip Bardenrundschild der Ausdauer
+
+2HSword
+/equip Kantiges Bastardschwert des Bären
